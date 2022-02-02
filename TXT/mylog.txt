@@ -2,3 +2,4 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W00 20 L03 Github Related
+ZCZC W00 15 L10 Assignment #00
