@@ -7,17 +7,14 @@ ZCZC W00 20 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 100 L02 ZOOM meetings Operating System
 ZCZC W00 50 L01 SCELE related
 ZCZC W00 60 L30 Udacity: study, etc.
-
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 120 L01 SCELE/Discord related
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 50 L05 Quiz related
 ZCZC W01 60 L32 YouTube: study, etc.
-
 ZCZC  W02 110 L02 ZOOM meetings related 
 ZCZC  W02 075 L02 ZOOM meetings related
 ZCZC  W02 100 L11 Assignment #01
-
 ZCZC W03 110 L02 ZOOM meetings related
 ZCZC W03 80 L02 ZOOM meetings related
 ZCZC W03 90 L12 Assignment #01
