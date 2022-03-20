@@ -12,11 +12,18 @@ ZCZC W01 120 L01 SCELE/Discord related
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 50 L05 Quiz related
 ZCZC W01 60 L32 YouTube: study, etc.
-ZCZC  W02 110 L02 ZOOM meetings related 
-ZCZC  W02 075 L02 ZOOM meetings related
-ZCZC  W02 100 L11 Assignment #01
+ZCZC W02 110 L02 ZOOM meetings related 
+ZCZC W02 075 L02 ZOOM meetings related
+ZCZC W02 100 L11 Assignment #01
 ZCZC W03 110 L02 ZOOM meetings related
 ZCZC W03 80 L02 ZOOM meetings related
 ZCZC W03 90 L12 Assignment #01
 ZCZC W03 120 L12 Assignment #02 
 ZCZC W03 30 L13 Assignment #03
+ZCZC W04 120 L11 Assignment #01
+ZCZC W04 60 L09 Assignment in General
+ZCZC W04 50 L05 Quiz related
+ZCZC W04 60 L03 GitHub related
+ZCZC W04 60 L01 SCELE/Discord related
+ZCZC W04 110 L02 ZOOM meetings related
+ZCZC W04 100 L02 ZOOM meetings related
